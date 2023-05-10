@@ -13,7 +13,7 @@ double rball=8,xball=ScreenWidth/2,yball=(yboard+board_height+rball+1);
 double ball_speed=20,theta=30;
 double dx=ball_speed*sin(theta*acos(-1)/180),dy=ball_speed*cos(theta*acos(-1)/180);
 int life=3;
-KenKanekiTheOneEyedGhoul
+
 //state
 bool start=false;
 bool collided;
